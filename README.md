@@ -39,7 +39,7 @@ GeneCluster 3.0 accepts the matrix as is; choose “complete linkage”.
 # Citation
 If this workflow supports your work, please cite:
 
-Braeken R, Margerie L, Osterholz H et al. Antigenic and structural diversity of the intrinsically disordered malaria vaccine candidates CSP and MSP2. eBioMedicine (under review, 2025).
+Braeken R, Margerie L, Osterholz H et al. Antigenic and structural diversity of the intrinsically disordered malaria vaccine candidates CSP and MSP2. Under review, 2025.
 
 and link back to this repository.
 
